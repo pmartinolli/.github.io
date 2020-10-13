@@ -1,6 +1,6 @@
 ## Matériel pédagogique
 
-- [Foutaisomètre / Bullshitometer](https://github.com/pmartinolli/TM-bullshitometer). [Conférences prédatrices](Repérer les conférences prédatrices).
+- [Foutaisomètre / Bullshitometer](https://github.com/pmartinolli/TM-bullshitometer). 
 - [Bonnes pratiques de sauvegarde](https://github.com/pmartinolli/TM-Saveorcry) et [eCockpit bureautique du chercheur](https://github.com/pmartinolli/TM-SchoCockpit)
 - [Gérer sa réputation numérique de chercheur](https://github.com/pmartinolli/TM-SchoProMa)
 - [Thésaurus personnel](https://github.com/pmartinolli/TM-MyThesaurus)
