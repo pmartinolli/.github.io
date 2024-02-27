@@ -1,4 +1,4 @@
-# Autres profils / Other profiles
+### Autres profils / Other profiles
 
 - [martinolli.free.fr](http://martinolli.free.fr/) : the most up to date
 - [Portfolio UdeM](https://portfolio.umontreal.ca/user/view.php?id=22220)
